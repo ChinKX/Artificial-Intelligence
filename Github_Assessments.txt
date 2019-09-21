@@ -1,0 +1,5 @@
+Genetic Algorithm Assessment:
+https://github.com/ChinKX/GeneticAlgorithm_TSP
+
+Supervised Learning Assessment:
+https://github.com/ChinKX/Supervised_Learning-Predicting_Credit_Card_Default
